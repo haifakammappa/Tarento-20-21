@@ -22,5 +22,7 @@ int main(){
     }
     inputStr[j] = '\0';
     printf("%s",inputStr );
-     printf(" was removed ");    
+    printf(" was removed ");  
+    printf("\n%d",j);
+    printf(" was removed");
 }
