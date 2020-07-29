@@ -15,7 +15,7 @@ Write a program to design a Dice game. There should be two players. Ask the user
         
         System.out.println("The first die comes up " + die1);
         System.out.println("The second die comes up " + die2);
-        System.out.println("Your total roll is " + roll);
+        System.out.println("Your total sum is " + roll);
 
     } 
  
